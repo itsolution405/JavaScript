@@ -1,0 +1,31 @@
+# Statement
+
+```
+<!DOCTYPE html>
+<html>
+<body>
+    <script type="text/javascript">
+        KODE JAVASCRIPT DISINI
+    </script>
+</body>
+</html>
+```
+
+## Sebuah statement/perintah Javascript biasanya diakhiri dengan semicolon/titik koma
+
+### Contoh: bukalah notepad++ kemudian tuliskan kode-kode berikut
+
+```
+<!DOCTYPE html>
+<html>
+
+<body>
+    <script type="text/javascript">
+        document.write("Hello World");
+    </script>
+</body>
+
+</html>
+```
+
+### Simpan dengan nama hello.html
