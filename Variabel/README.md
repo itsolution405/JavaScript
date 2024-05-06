@@ -5,3 +5,36 @@
 membuat variabel gunakan kata kunci var, pengisian nilai pada sebuah variabel menggunakan tanda "=".
 
 ## Contoh seperti pada variabel berikut ini
+
+```
+<!DOCTYPE html>
+<html>
+
+<body>
+    <script type="text/javascript">
+        var nm = 0; // nm adalah variabel untuk menyimpannama
+        var i = 0;
+        /* i adalah index array.
+                    index ibaratnya nomor gerbong kereta */
+        var bil,
+            bil2,
+            bilMax = 0;
+        bil1 = 3;
+        bil2 = 4;
+
+        // Max2 berfungsi mencari maximum dari 2 bilangan
+        function max2(bil1, bil2) {
+            if (bil1 > bil2) {
+                return bil1;
+            } else {
+                return bil2;
+            }
+        }
+
+        bilmax = max2(bil1, bil2);
+        document.write(bilmax);
+    </script>
+</body>
+
+</html>
+```
