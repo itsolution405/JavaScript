@@ -20,3 +20,18 @@
 
 </html>
 ```
+
+## Objek boolean
+
+```
+ var myboolean = new boolean(parameter);
+```
+
+### Objek Date
+
+```
+var d = new Date();
+var d = new Date(mscnd)
+var d = new Date (datestring)
+var d = new Date (year, month, day, hours, minutes, seconds, mscnd)
+```
