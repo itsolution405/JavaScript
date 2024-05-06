@@ -44,3 +44,18 @@
 
 </html>
 ```
+
+### tetapi Anda tidak bisa memisaahkan kode dengan cara seperti ini
+
+```
+<!DOCTYPE html>
+<html>
+
+<body>
+    <script type="text/javascript">
+        document.write \ ("Pemimpin yang baik adalah pelayan masyarakat");
+    </script>
+</body>
+
+</html>
+```
