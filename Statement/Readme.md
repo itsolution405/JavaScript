@@ -31,3 +31,16 @@
 ### Simpan dengan nama hello.html
 
 ### Untuk string yang terlalu panjang Anda bisa memisahka nya menjadi baris menggunakan backlash seperti (pemimpin.html)
+
+```
+<!DOCTYPE html>
+<html>
+
+<body>
+    <script type="text/javascript">
+        document.write("Pemimpin yang baik adalah pelayan \ masyarakat");
+    </script>
+</body>
+
+</html>
+```
