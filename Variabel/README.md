@@ -38,3 +38,21 @@ membuat variabel gunakan kata kunci var, pengisian nilai pada sebuah variabel me
 
 </html>
 ```
+
+```
+<!DOCTYPE html>
+<html>
+
+<body>
+    <script type="text/javascript">
+        var Nama = "Febriany"; // Deklarasi sekaligus pengisian
+        var Perusahaan; // Deklarasi saja
+
+        Perusahaan = "Educative Games"; // Pengisian saja
+        document.write(nama);
+        document.write(Perusahaan);
+    </script>
+</body>
+
+</html>
+```
