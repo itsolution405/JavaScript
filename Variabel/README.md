@@ -41,7 +41,7 @@ membuat variabel gunakan kata kunci var, pengisian nilai pada sebuah variabel me
 
 Tampilan yang dihasilkan :
 
-![button](https://github.com/itsolution405/CSS/blob/main/Navigation%20link.png)
+![button](https://github.com/itsolution405/JavaScript/blob/main/Variabel.png)
 
 ```
 <!DOCTYPE html>
