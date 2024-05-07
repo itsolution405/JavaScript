@@ -28,10 +28,11 @@
 </html>
 ```
 
+### Simpan dengan nama hello.html
+
 Tampilan yang dihasilkan :
 
 ![button](https://github.com/itsolution405/JavaScript/blob/main/Statement/Statement.png)
-### Simpan dengan nama hello.html
 
 ### Untuk string yang terlalu panjang Anda bisa memisahka nya menjadi baris menggunakan backlash seperti (pemimpin.html)
 
