@@ -39,6 +39,10 @@ membuat variabel gunakan kata kunci var, pengisian nilai pada sebuah variabel me
 </html>
 ```
 
+Tampilan yang dihasilkan :
+
+![button](https://github.com/itsolution405/CSS/blob/main/Navigation%20link.png)
+
 ```
 <!DOCTYPE html>
 <html>
