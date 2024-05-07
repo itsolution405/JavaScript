@@ -59,3 +59,8 @@
 
 </html>
 ```
+
+
+Tampilan yang dihasilkan :
+
+![button](https://github.com/itsolution405/JavaScript/blob/main/Statement/Statement.png)
