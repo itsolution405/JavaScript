@@ -1,6 +1,6 @@
 # Operator Aritmatika
 
-## Ada +, -, *, /, %, ++,--
+## +, -, *, /, %, ++,--
 
 ### Penjumlahan, Pengurangan, Perkalian, Pembagian, Modulus/sisa bagi, Tambah 1, Kurang 1
 
