@@ -11,3 +11,7 @@
 
 </html>
 ```
+
+Tampilan yang dihasilkan :
+
+![button](https://github.com/itsolution405/JavaScript/blob/main/Kondisi%20Percaabangan/if_statement.png)
