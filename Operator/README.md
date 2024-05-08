@@ -25,7 +25,7 @@ Contoh
 ```
 Tampilan yang dihasilkan :
 
-![button](https://github.com/itsolution405/JavaScript/blob/main/Operator/Operator%20Aritmatika.png)
+![button](https://github.com/itsolution405/JavaScript/blob/main/Operator/Penjumlahan.png)
 
 ```
 <!DOCTYPE html>
