@@ -48,3 +48,27 @@ Tampilan yang dihasilkan :
 Tampilan yang dihasilkan :
 
 ![button](https://github.com/itsolution405/JavaScript/blob/main/Operator/Pengurangan.png)
+
+# Operator Logika
+
+```
+<!DOCTYPE html>
+<html>
+
+<body>
+    <script type="text/javascript">
+        var nilaiUjian = 90;
+        var nilaiAkhir = "";
+
+        if (nilaiUjian >= 80 && nilaiUjian <= 100)[(nilaiAkhir = "B")];
+        document.write(nilaiAkhir);
+    </script>
+
+</body>
+
+</html>
+```
+
+Tampilan yang dihasilkan :
+
+![button](https://github.com/itsolution405/JavaScript/blob/main/Operator/nilai%20akhir.png)
