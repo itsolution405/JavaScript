@@ -72,3 +72,26 @@ Tampilan yang dihasilkan :
 Tampilan yang dihasilkan :
 
 ![button](https://github.com/itsolution405/JavaScript/blob/main/Operator/nilai%20akhir.png)
+
+# Operator Kondisional
+
+    <script type="text/javascript">
+        nama_variabel1 = kondisi ? nilai1 : nilai2;
+
+```
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<body>
+    <script type="text/javascript">
+        var umur = 18;
+        var layakSIM = "";
+        layakSIM = umur17 ? "layak" : "tidak layak";
+        document.write(layakSIM);
+    </script>
+</body>
+
+</html>
+```
