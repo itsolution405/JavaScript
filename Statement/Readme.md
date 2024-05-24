@@ -63,3 +63,16 @@ Tampilan yang dihasilkan :
 
 </html>
 ```
+
+```
+<script type="text/javascript">
+    var visitor = "user";
+    if (visitor == "admin") {
+        document.write("Selamat datang Admin");
+    } else if (visitor == "user") {
+        document.write("selamat datang user");
+    } else {
+        document.write("Anda di larang mengakses halaman ini");
+    }
+</script>
+```
