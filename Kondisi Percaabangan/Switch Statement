@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Switch Statement</title>
+  </head>
+  <body>
+    <script type="text/Javascript">
+      var = silaPancasila =1;
+      switch (silaPancasila) {
+          case 1:
+
+              document.write("Ketuhanan yang maha esa");
+              break;
+          case 2:
+
+              document.write("Kemanusiaan yang adil dan beradab");
+              break;
+          case 3:
+
+              document.write("Persatuan Indonesia");
+              break;
+          case 4:
+
+              document.write("Kerakyatan yang di pimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan");
+              break;
+          case 5:
+
+              document.write("Keadilan sosial bagi seluruh rakyat Indonesia");
+              break;
+
+      } {
+
+      }
+    </script>
+  </body>
+</html>
