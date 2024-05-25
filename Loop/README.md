@@ -17,4 +17,4 @@
 ```
 Tampilan yang dihasilkan :
 
-![button](https://github.com/itsolution405/JavaScript/blob/main/Operator/Penjumlahan.png)
+![button](https://github.com/itsolution405/JavaScript/blob/main/Loop/Screen%20Shot%202024-05-25%20at%2014.32.23.png)
