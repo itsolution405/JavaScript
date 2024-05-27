@@ -44,3 +44,28 @@ Tampilan yang dihasilkan :
 Tampilan yang dihasilkan :
 
 ![button](https://github.com/itsolution405/JavaScript/blob/main/Loop/Screen%20Shot%202024-05-25%20at%2014.32.23.png)
+
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>arrMobilFor</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        arrMobil = ["Toyota", "Suzuki", "Daihatsu", "Mazda"];
+        var i = 0;
+        for (; arrMobil[i];) {
+            document.write(arrMobil[i] + "<br>");
+        }
+    </script>
+</body>
+
+</html>
+```
+
