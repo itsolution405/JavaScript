@@ -110,3 +110,23 @@ Tampilan yang dihasilkan :
 Tampilan yang dihasilkan :
 
 ![button](https://github.com/itsolution405/JavaScript/blob/main/Loop/Saya%20tidak%20akan%20telat.png)
+
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>arrMobilWhile</title>
+</head>
+
+<body>
+    <script type="text/Javascript">
+        arrMobil = ["Toyota", "Suzuki", "Daihatsu", "Mazda"] var i=0; while(arrMobil[i]) { document.write(arrMobil[i] + "<br>"); i++ }
+    </script>
+</body>
+
+</html>
+```
