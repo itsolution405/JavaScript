@@ -162,4 +162,4 @@ Tampilan yang dihasilkan :
 ![button](https://github.com/itsolution405/JavaScript/blob/main/Loop/pembagian%200.png)
 
 
-![button](https://github.com/itsolution405/JavaScript/blob/main/Loop/pembagian%200.png)
+![button](https://github.com/itsolution405/JavaScript/blob/main/Loop/hasil.png)
