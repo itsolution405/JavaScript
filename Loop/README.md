@@ -204,3 +204,26 @@ oneclick = "notEmpty (document.getElementbyId ('req'), 'Flease Enter a Value')"
 value = 'check Field' / >
     </form>
 ```
+
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <a href="notempty.js"></a>
+    <title>notempty</title>
+</head>
+
+<body>
+    <script language="javascript" src="js/notempty.js"></script>
+    <form>
+        Required Field: <input type="text" id="req1" />
+        <input type="button" oneclick="notEmpty (document.getelementById('req1'), 'Please enter value')" value="Check Field" />
+    </form>
+</body>
+
+</html>
+```
