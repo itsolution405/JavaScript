@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Contoh Fungsi JavaScript</title>
+</head>
+
+<body>
+    <h1>Jenis-jenis Fungsi JavaScript</h1>
+
+    <script>
+        // 1. Function Declaration
+        function tambah(a, b) {
+            return a + b;
+        }
+        console.log("Function Declaration:", tambah(5, 3));
+
+        // 2. Function Expression
+        const kali = function(a, b) {
+            return a * b;
+        };
+        console.log("Function Expression:", kali(5, 3));
+
+        // 3. Arrow Function
+        const bagi = (a, b) => a / b;
+        console.log("Arrow Function:", bagi(10, 2));
+    </script>
+</body>
+
+</html>
